@@ -1,0 +1,43 @@
+{
+  "name": "maps-application",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "babel-core": "^6.13.2",
+    "babel-eslint": "^6.1.2",
+    "babel-plugin-transform-runtime": "^6.12.0",
+    "babel-polyfill": "^6.13.0",
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-preset-stage-2": "^6.13.0",
+    "coveralls": "^2.11.12",
+    "eslint": "^3.2.2",
+    "eslint-config-airbnb": "^10.0.0",
+    "eslint-plugin-react": "^6.0.0",
+    "ignore-styles": "^4.0.0",
+    "istanbul": "^1.0.0-alpha.2",
+    "mocha": "^3.0.2",
+    "nock": "^8.0.0",
+    "react-addons-test-utils": "^15.3.0",
+    "react-scripts": "0.2.1",
+    "redux-mock-store": "^1.1.2"
+  },
+  "dependencies": {
+    "enzyme": "^2.4.1",
+    "expect": "latest",
+    "isomorphic-fetch": "^2.2.1",
+    "pushstate-server": "latest",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "react-google-maps": "^9.4.5",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.6.0",
+    "redux": "^3.5.2"
+  },
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/react-scripts/config/eslint.js"
+  }
+}

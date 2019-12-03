@@ -1,0 +1,1 @@
+export const VEHICLE_SELECTED = 'VEHICLE_SELECTED';
