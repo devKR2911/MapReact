@@ -2,21 +2,22 @@
 
 React Maps Application
 
-#Technologies Used:
+# Technologies Used:
 
 - React JS : V 15.2.1
 - Redux: V 3.5.2
 - CSS For component dependent styling.
 - Bootstrap 4 For general application styling.
 
-#Map Plugin:
+# Map Plugin:
+
 [Google Map Plugin Used](https://tomchentw.github.io/react-google-maps)
 
 Google map key was not available so this is just a development only application.
 
 Vehicle details are fetched from a local JSON file.
 
-#Map Functionalities.
+# Map Functionalities.
 
 1. Vehicle Listing shown at the left portion of screen.
 2. Map plotting with the listed vehicles at the right portion of the screen.
